@@ -108,21 +108,24 @@ h6 {
 .two {
     color: #ede2cc;
     position: relative;
-    left: 40px;
+    left: 20px;
 }
 .three {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-style: italic;
     color: #ede2cc;
     position: relative;
-    left: 60px;
+    left: 50px;
 }
 .four {
-    font-family: kontora Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: Verdana,
+        Geneva,
+        Tahoma,
+        sans-serif;
     color: #ede2cc;
     font-style: italic;
     position: relative;
-    left: 80px;
+    left: 70px;
 }
 
 .content
